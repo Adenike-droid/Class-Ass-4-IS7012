@@ -1,0 +1,139 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RecruitCat_Username_
+build_property.RootNamespace = RecruitCat_Username_
+build_property.ProjectDir = C:\Users\Haleem\source\repos\RecruitCat[Username]\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Haleem\source\repos\RecruitCat[Username]
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Candidates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Candidates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Candidates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Candidates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Candidates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Industries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Industries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Industries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Industries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Industries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/JobTitles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/JobTitles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/JobTitles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/JobTitles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/JobTitles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/OurTeam/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haleem/source/repos/RecruitCat\[Username\]/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-47uilkmm9z
